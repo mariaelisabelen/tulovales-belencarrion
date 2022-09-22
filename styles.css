@@ -36,6 +36,7 @@ legend {
 
 .title{
     font-size: 30px;
+    text-align: center;
 }
 
 iframe {
@@ -147,10 +148,6 @@ input {
 
 .title { 
     grid-area: title; 
-}
-  
-.imagen { 
-    max-width: 100%; 
 }
   
 .subtitle { 
@@ -289,8 +286,5 @@ input {
         color: #ba97a1 !important;
     }
 
-    .img {
-        text-align: center;
-    }
 
 }
